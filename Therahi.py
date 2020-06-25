@@ -106,8 +106,8 @@ jalan("   \033[1;93m Welcome To ༆ᴛᴀ°᭄ᴠᴇᴇʀ Creations ")
 
 jalan("\033[1;97m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
-CorrectUsername = "tanu"
-CorrectPassword = "tanu"
+CorrectUsername = "rahi"
+CorrectPassword = "rahi"
 
 
 loop = 'true'
